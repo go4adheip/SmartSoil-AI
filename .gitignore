@@ -1,4 +1,8 @@
 venv/
+cnnvenv/
 __pycache__/
 *.pyc
 .env
+
+dataset/
+Soil-Classification-Dataset-main/
