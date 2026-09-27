@@ -145,8 +145,8 @@ history = model.fit(
 # SAVE
 # -----------------------------
 
-model.save("soil_cnn.keras")
+model.save("soil_cnn_4class.keras")
 
 print()
 print("Improved CNN training completed!")
-print("Model saved as soil_cnn.keras")
+print("Model saved as ssoil_cnn_4class.keras")
